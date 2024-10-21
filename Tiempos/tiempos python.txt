@@ -1,0 +1,188 @@
+Resultados para File_100.txt:
+Bubble Sort: 0.000332 segundos   
+Counting Sort: 0.000028 segundos 
+Heap Sort: 0.000133 segundos     
+Insertion Sort: 0.000155 segundos
+Merge Sort: 0.000123 segundos    
+Quick Sort: 0.000092 segundos    
+Selection Sort: 0.000160 segundos
+
+Resultados para File_1000.txt:
+Bubble Sort: 0.040197 segundos
+Counting Sort: 0.000208 segundos
+Heap Sort: 0.001944 segundos
+Insertion Sort: 0.019797 segundos
+Merge Sort: 0.001698 segundos
+Quick Sort: 0.000713 segundos
+Selection Sort: 0.018937 segundos
+
+Resultados para File_10000.txt:
+Bubble Sort: 4.187162 segundos
+Counting Sort: 0.002084 segundos
+Heap Sort: 0.026200 segundos
+Insertion Sort: 1.912355 segundos
+Merge Sort: 0.020162 segundos
+Quick Sort: 0.005552 segundos
+Selection Sort: 1.787018 segundos
+
+Resultados para File_100000.txt:
+Bubble Sort: 423.834101 segundos
+Counting Sort: 0.021034 segundos
+Heap Sort: 0.332279 segundos
+Insertion Sort: 189.433495 segundos
+Merge Sort: 0.258859 segundos
+Quick Sort: 0.052510 segundos
+Selection Sort: 191.889751 segundos
+
+Resultados para File_2000.txt:
+Bubble Sort: 0.153196 segundos
+Counting Sort: 0.000434 segundos
+Heap Sort: 0.004128 segundos
+Insertion Sort: 0.070980 segundos
+Merge Sort: 0.004461 segundos
+Quick Sort: 0.001197 segundos
+Selection Sort: 0.071732 segundos
+
+Resultados para File_20000.txt:
+Bubble Sort: 17.122473 segundos
+Counting Sort: 0.003960 segundos
+Heap Sort: 0.056420 segundos
+Insertion Sort: 7.394345 segundos
+Merge Sort: 0.049193 segundos
+Quick Sort: 0.011701 segundos
+Selection Sort: 7.536679 segundos
+
+Resultados para File_3000.txt:
+Bubble Sort: 0.369810 segundos
+Counting Sort: 0.000587 segundos
+Heap Sort: 0.006803 segundos
+Insertion Sort: 0.165630 segundos
+Merge Sort: 0.005204 segundos
+Quick Sort: 0.001582 segundos
+Selection Sort: 0.160348 segundos
+
+Resultados para File_30000.txt:
+Bubble Sort: 38.178192 segundos
+Counting Sort: 0.006189 segundos
+Heap Sort: 0.090984 segundos
+Insertion Sort: 17.271560 segundos
+Merge Sort: 0.068255 segundos
+Quick Sort: 0.016247 segundos
+Selection Sort: 16.678778 segundos
+
+Resultados para File_4000.txt:
+Bubble Sort: 0.635313 segundos
+Counting Sort: 0.000788 segundos
+Heap Sort: 0.009161 segundos
+Insertion Sort: 0.289865 segundos
+Merge Sort: 0.007221 segundos
+Quick Sort: 0.002160 segundos
+Selection Sort: 0.284719 segundos
+
+Resultados para File_40000.txt:
+Bubble Sort: 67.018961 segundos
+Counting Sort: 0.008536 segundos
+Heap Sort: 0.125498 segundos
+Insertion Sort: 30.420827 segundos
+Merge Sort: 0.100241 segundos
+Quick Sort: 0.024488 segundos
+Selection Sort: 29.349717 segundos
+
+Resultados para File_500.txt:
+Bubble Sort: 0.009760 segundos
+Counting Sort: 0.000124 segundos
+Heap Sort: 0.000947 segundos
+Insertion Sort: 0.004855 segundos
+Merge Sort: 0.000797 segundos
+Quick Sort: 0.000421 segundos
+Selection Sort: 0.004930 segundos
+
+Resultados para File_5000.txt:
+Bubble Sort: 1.020118 segundos
+Counting Sort: 0.001108 segundos
+Heap Sort: 0.013284 segundos
+Insertion Sort: 0.538972 segundos
+Merge Sort: 0.010506 segundos
+Quick Sort: 0.003083 segundos
+Selection Sort: 0.514806 segundos
+
+Resultados para File_50000.txt:
+Bubble Sort: 106.643915 segundos
+Counting Sort: 0.010481 segundos
+Heap Sort: 0.155359 segundos
+Insertion Sort: 47.351971 segundos
+Merge Sort: 0.120066 segundos
+Quick Sort: 0.028152 segundos
+Selection Sort: 45.599709 segundos
+
+Resultados para File_6000.txt:
+Bubble Sort: 1.501205 segundos
+Counting Sort: 0.001262 segundos
+Heap Sort: 0.015032 segundos
+Insertion Sort: 0.674721 segundos
+Merge Sort: 0.011280 segundos
+Quick Sort: 0.003244 segundos
+Selection Sort: 0.648023 segundos
+
+Resultados para File_60000.txt:
+Bubble Sort: 152.308326 segundos
+Counting Sort: 0.012808 segundos
+Heap Sort: 0.192220 segundos
+Insertion Sort: 68.877781 segundos
+Merge Sort: 0.150958 segundos
+Quick Sort: 0.035284 segundos
+Selection Sort: 67.347815 segundos
+
+Resultados para File_7000.txt:
+Bubble Sort: 2.187337 segundos
+Counting Sort: 0.001481 segundos
+Heap Sort: 0.017829 segundos
+Insertion Sort: 0.933207 segundos
+Merge Sort: 0.013653 segundos
+Quick Sort: 0.003963 segundos
+Selection Sort: 0.905227 segundos
+
+Resultados para File_70000.txt:
+Bubble Sort: 206.943345 segundos
+Counting Sort: 0.016620 segundos
+Heap Sort: 0.255225 segundos
+Insertion Sort: 93.626544 segundos
+Merge Sort: 0.174018 segundos
+Quick Sort: 0.040972 segundos
+Selection Sort: 92.703414 segundos
+
+Resultados para File_8000.txt:
+Bubble Sort: 2.647402 segundos
+Counting Sort: 0.001621 segundos
+Heap Sort: 0.020530 segundos
+Insertion Sort: 1.203463 segundos
+Merge Sort: 0.015486 segundos
+Quick Sort: 0.004634 segundos
+Selection Sort: 1.163229 segundos
+
+Resultados para File_80000.txt:
+Bubble Sort: 275.157913 segundos
+Counting Sort: 0.018709 segundos
+Heap Sort: 0.272592 segundos
+Insertion Sort: 122.392347 segundos
+Merge Sort: 0.202466 segundos
+Quick Sort: 0.045463 segundos
+Selection Sort: 119.161479 segundos
+
+Resultados para File_9000.txt:
+Bubble Sort: 3.323562 segundos
+Counting Sort: 0.002047 segundos
+Heap Sort: 0.025842 segundos
+Insertion Sort: 1.659778 segundos
+Merge Sort: 0.020731 segundos
+Quick Sort: 0.005510 segundos
+Selection Sort: 1.532472 segundos
+
+Resultados para File_90000.txt:
+Bubble Sort: 343.000718 segundos
+Counting Sort: 0.018550 segundos
+Heap Sort: 0.307142 segundos
+ 
+Merge Sort: 0.231513 segundos
+Quick Sort: 0.043480 segundos
+Selection Sort: 147.153680 segundos
